@@ -10,5 +10,5 @@ _Italic text_
 
 **Linkit**
 
-https://github.com/julkpas/ot-harjoitustyo/blob/main/laskarit/viikko1/komentorivi.txt
+_[komentorivi.txt] (https://github.com/julkpas/ot-harjoitustyo/blob/main/laskarit/viikko1/komentorivi.txt)_
 
