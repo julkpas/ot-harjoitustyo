@@ -12,3 +12,4 @@ _Italic text_
 
 _[komentorivi.txt](https://github.com/julkpas/ot-harjoitustyo/blob/main/laskarit/viikko1/komentorivi.txt)_
 
+_[gitlog.txt]()_
