@@ -4,6 +4,6 @@
 
 ### Otsikko 3
 
-** BOLD text **
+**BOLD text**
 
-- Italic text -
+_Italic text_
